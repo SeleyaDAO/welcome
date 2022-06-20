@@ -1,2 +1,2 @@
 # welcome
-Welcome to Seleya. Where Privacy Becomes Sacred and Logical.
+Welcome to Seleya. Where Privacy Becomes Logical.
