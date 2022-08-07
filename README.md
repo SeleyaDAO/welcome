@@ -1,2 +1,2 @@
 # welcome
-Welcome to Seleya. Where Privacy Becomes Logical.
+Welcome to Seleya DAO. Where Privacy Becomes Logical.
